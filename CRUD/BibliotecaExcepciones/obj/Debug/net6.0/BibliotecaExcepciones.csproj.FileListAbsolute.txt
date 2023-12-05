@@ -1,0 +1,11 @@
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.deps.json
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.dll
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.pdb
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.AssemblyInfoInputs.cache
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.AssemblyInfo.cs
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.dll
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\refint\BibliotecaExcepciones.dll
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.pdb
+C:\Users\Mateo\Desktop\Repos Github\CRUD_Productos_Gamer\CRUD\BibliotecaExcepciones\obj\Debug\net6.0\ref\BibliotecaExcepciones.dll

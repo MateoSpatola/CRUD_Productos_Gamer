@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.ProductoGamer">
+    <Position X="1.25" Y="4.5" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAACEBAAIBAQQCCFgEAAgAAAgAAAAIABCIAAAAAAAiA=</HashCode>
+      <FileName>ProductoGamer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Monitor">
+    <Position X="9.25" Y="0.75" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEgCAAAAAgAAAEAAAACIAAAAgAAAA=</HashCode>
+      <FileName>Monitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Teclado">
+    <Position X="9.25" Y="5.5" Width="10.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAABAAAEhAAAAACAAAAAgAABDAAAAAAAAAA=</HashCode>
+      <FileName>Teclado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Mouse">
+    <Position X="9.25" Y="10.25" Width="9.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAEgAAAAASAAAAAgAABCIAAAAQAAAA=</HashCode>
+      <FileName>Mouse.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Inventario&lt;T&gt;">
+    <Position X="20" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAABAAAAIQAEBAAAAAAAAAAAAAIAAAAAACiA=</HashCode>
+      <FileName>Inventario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.AccesoInventario">
+    <Position X="1.25" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAQCIACEIAAAAAAAAAAEAAAAAAAAgAAAAAAAE=</HashCode>
+      <FileName>AccesoInventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.ProductoEventArgs">
+    <Position X="5.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductoEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IConfigurable&lt;T&gt;">
+    <Position X="20.25" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>IConfigurable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Entidades.IAcomodable&lt;T&gt;">
+    <Position X="20.25" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>IAcomodable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Entidades.IProducto">
+    <Position X="20.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAABAAQCAAAAAAgAAAgAAAAAAACIAAAAAAAAA=</HashCode>
+      <FileName>IProducto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EMarcasAutorizadas">
+    <Position X="19.75" Y="11.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAAAAAAgA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipoPanel">
+    <Position X="22" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAgAAAAAAAAAAIAAgAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipoTeclado">
+    <Position X="21" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="DelegadoInicioSesionFallidoEventHandler">
+    <Position X="4" Y="11.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegados.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="DelegadoHoraEnTiempoReal&lt;T&gt;">
+    <Position X="4.75" Y="13.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegados.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="DelegadoIncrementarBarraProgreso&lt;A, B, C&gt;">
+    <Position X="1.25" Y="13" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegados.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="DelegadoFinalizarProceso&lt;A, B&gt;">
+    <Position X="1.25" Y="11.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegados.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
